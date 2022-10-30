@@ -155,11 +155,11 @@ position: relative;
 .grid p{
     position: absolute;
     color: white;
-    bottom: 2\0px;
+    bottom: 15px;
     left: 20px;
     width: 72px;
     font-weight: 100;
-    font-size: 25px;
+    font-size: 20px;
 }
 footer{
     background-color: black;
